@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+
+#wsc-url-generator {
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  border-radius: 8px;
+  padding: 30px;
+  margin-top: 20px;
+  max-width: 450px;
+}
+
+#wsc-url-generator select {
+  width: 100%;
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 12px;
+  margin-top: 5px;
+  font-family: "DM Sans", sans-serif;
+}
+
+#wsc-url-generator label {
+  font-family: "DM Sans", sans-serif;
+}
+
+.wsc_button {
+  font-size: 14px;
+  font-family: "DM Sans", sans-serif;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 20px;
+}
+
+.wsc_button:hover {
+  background: #016ee2;
+}
