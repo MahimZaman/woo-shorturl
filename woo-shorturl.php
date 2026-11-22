@@ -4,7 +4,8 @@
  * Plugin Name: Woo ShortCart
  * Description: Generate short URLs for WooCommerce products that add the product to cart and redirect to checkout.
  * Author: Mahim Zaman
- * Author URI: https://www.mahimzaman.com
+ * Plugin URI: https://condixia.com
+ * Author URI: https://mahimzaman.com
  * Version: 1.0
  */
 
